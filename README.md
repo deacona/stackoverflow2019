@@ -30,6 +30,7 @@ The CRISP-DM process was followed to answer each question.
 3. Data preperation
 4. Modelling
 5. Evaluation
+6. Deployment
 
 A summary of the findings can be found at TBC. Full details are in the code as described below.
 
