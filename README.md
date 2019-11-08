@@ -19,8 +19,8 @@ This project uses Python 3.7 - specifically the Anacaconda Miniconda distributio
 
 This project is intended to explore the 2019 stackoverflow survey results and answer some interesting questions about the data. The 3 main questions are
 
-1. TBC?
-2. TBC?
+1. Who is the typical coder? (What are their attributes?) (Also who is the least typical?)
+2. What makes data scientists stand out? (Can we predict which coders are data scientists?)
 3. TBC?
 
 The CRISP-DM process was followed to answer each question.
@@ -58,4 +58,4 @@ Run each notebook to reproduce it's results.
 
 ## Licensing, Authors, Acknowledgements <a name="licensing"></a>
 
-Acknowledgement to Stack Overflow for sharing the dataset. The code is available to use as you would like.
+Acknowledgement to Stack Overflow for sharing the dataset. Thanks also to my course mentor [NicoEssi](https://github.com/NicoEssi) for his advice and support. The code is available to use as you would like.
