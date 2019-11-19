@@ -1,5 +1,5 @@
-# stackoverflow2019
- DSND Project: Write a Data Science Blog Post
+# Stackoverflow 2019 survey results
+ (DSND Project: Write a Data Science Blog Post)
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@
 
 ## Installation <a name="installation"></a>
 
-This project uses Python 3.7 - specifically the Anacaconda Miniconda distribution. All Python libraries used can be found in the requirements.txt file.
+This project uses Python 3.7, Pandas, Scikit-learn and Jupyterlab. I used the Anacaconda Miniconda distribution running on Windows for my environment management but other setups should work fine if you install all the libraries found in the [requirements.txt](requirements.txt) file.
 
 Download the full dataset for 2019 from [here](https://insights.stackoverflow.com/survey) into the data sub-folder and unzip.
 
@@ -23,7 +23,7 @@ This project is intended to explore the 2019 stackoverflow survey results and an
 
 1. Who is the typical coder? (What are their attributes?)
 2. What makes data scientists stand out? (Can we predict which developers are data scientists?)
-3. Is Data Science inclusive? (Can we see more diversity compared with other roles)
+3. Is Data Science inclusive? (Can we see more diversity compared with other developer roles)
 
 The CRISP-DM process was followed to answer each question.
 
@@ -34,7 +34,7 @@ The CRISP-DM process was followed to answer each question.
 5. Evaluation
 6. Deployment
 
-A summary of the findings can be found at TBC. Full details are in the code as described below.
+A summary of the findings will be posted on Medium. Full details are in the code as described below.
 
 
 ## File descriptions <a name="files"></a>
@@ -47,6 +47,8 @@ Each question has it's own Jupyter notebook
 
 
 ## Results <a name="results"></a>
+
+A brief summary of the results...
 
 1. Coders actually aren't all identical. No set of answers appeared more than 15 times out of 88,000 reposes.
 
