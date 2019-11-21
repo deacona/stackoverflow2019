@@ -1,5 +1,5 @@
 # Stackoverflow 2019 survey results
- (DSND Project: Write a Data Science Blog Post)
+ (Udacity DSND Project: Write a Data Science Blog Post)
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@
 
 ## Installation <a name="installation"></a>
 
-This project uses Python 3.7, Pandas, Scikit-learn and Jupyterlab. I used the Anacaconda Miniconda distribution running on Windows for my environment management but other setups should work fine if you install all the libraries found in the [requirements.txt](requirements.txt) file.
+This project requires Python 3.7, Numpy, Matplotlib, Pandas and Scikit-learn. I used the Anacaconda Miniconda distribution running on Windows for my environment but other setups should work fine if you install all the libraries found in the [requirements.txt](requirements.txt) file.
 
 Download the full dataset for 2019 from [here](https://insights.stackoverflow.com/survey) into the data sub-folder and unzip.
 
@@ -50,11 +50,11 @@ Each question has it's own Jupyter notebook
 
 A brief summary of the results...
 
-1. Coders actually aren't all identical. No set of answers appeared more than 15 times out of 88,000 reposes.
+1. Coders actually aren't all identical. No set of answers appeared more than 15 times out of 88,000+ responses.
 
-2. Data Scientists aren't that different from other developers.
+2. Data Scientists aren't that different from other developers. Or at least not enough that we can accurately predict which developers are data scientists based on their other responses.
 
-3. Data Science is a bit more diverse than other develpment roles
+3. Data Science is more diverse than other develpment roles. Not by a lot but there is a measurable difference: 56% of data scientists are white hetrosexual men as opposed to 60% of all other developers, and data scientists are over 4 times more likely to belong to a different diversity grouping (1 in 24 vs 1 in 109).
 
 
 ## Licensing, Authors, Acknowledgements <a name="licensing"></a>
