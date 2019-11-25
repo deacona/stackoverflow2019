@@ -42,7 +42,7 @@ A summary of the findings will be posted on Medium. Full details are in the code
 Each question has it's own Jupyter notebook
 
 * [Q1 Typical Coder](Q1_Typical_Coder.ipynb)
-* [Q2 Data Scientist clasifier](Q2_Data_Scientist_classifier.ipynb)
+* [Q2 Data Scientist classifier](Q2_Data_Scientist_classifier.ipynb)
 * [Q3 Data Scientist diversity](Q3_Data_Scientist_diversity.ipynb)
 
 
@@ -50,11 +50,11 @@ Each question has it's own Jupyter notebook
 
 A brief summary of the results...
 
-1. Coders actually aren't all identical. No set of answers appeared more than 15 times out of 88,000+ responses.
+1. Coders actually aren't all identical. No set of answers appeared more than 15 times out of 88,000+ responses. If we just look at data scientists we find that no set of answers appears more than once!
 
 2. Data Scientists aren't that different from other developers. Or at least not enough that we can accurately predict which developers are data scientists based on their other responses.
 
-3. Data Science is more diverse than other develpment roles. Not by a lot but there is a measurable difference: 56% of data scientists are white hetrosexual men as opposed to 60% of all other developers, and data scientists are over 4 times more likely to belong to a different diversity grouping (1 in 24 vs 1 in 109).
+3. Data Science is more diverse than other development roles. Not by a lot but there is a measurable difference: 44% of data scientists are NOT white heterosexual men as opposed to 40% of all other developers. If we look at the number of different diversity groups we find that they are represented over 4 times more frequently within the data scientist field (1 in 24 vs 1 in 109).
 
 
 ## Licensing, Authors, Acknowledgements <a name="licensing"></a>
