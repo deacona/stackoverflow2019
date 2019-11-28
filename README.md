@@ -34,7 +34,7 @@ The CRISP-DM process was followed to answer each question.
 5. Evaluation
 6. Deployment
 
-A summary of the findings will be posted on Medium. Full details are in the code as described below.
+A summary of the findings are posted on [Medium](https://medium.com/@adeacon/who-are-data-scientists-c5a4f09fdb4c). Full details are in the code as described below.
 
 
 ## File descriptions <a name="files"></a>
